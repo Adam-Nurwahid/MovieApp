@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063150869567",
+    "project_id": "movieapp-7ba10",
+    "storage_bucket": "movieapp-7ba10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063150869567:android:066f5b67c2c61f8829ac8a",
+        "android_client_info": {
+          "package_name": "com.damtoy.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7TRiqPHBC3OilPe_oXWvBOOYno-OHvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
